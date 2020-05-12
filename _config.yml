@@ -27,7 +27,7 @@ baseurl: /KernHu.github.io
 avatar: https://avatars1.githubusercontent.com/u/10485653?s=460&u=743e615ae7a759e074242efb7b06952f55f78297&v=4
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
+favicon: https://raw.githubusercontent.com/KernHu/KernHu.github.io/master/images/favicon.png
 
 
 # 菜单中的按钮
@@ -49,7 +49,7 @@ excerpt_separator: <!-- more -->
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
+  weibo:  #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
   email: sky580@126.com 
