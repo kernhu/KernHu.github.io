@@ -4,4 +4,8 @@ title: 关于
 permalink: /about/
 ---
 
-这是一个关于页面，请编辑about.md以介绍你的博客。
+联系方式：
+=========
+##QQ群：43447852
+## [Email](sky580@126.com "sky580@126.com")
+## [GitHub](https://github.com/KernHu "KernHu")
