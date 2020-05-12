@@ -7,8 +7,8 @@
 # 井号后面的文字是说明文档，不会被程序读取。
 
 # 描述/签名
-name: 行走光影
-description: If you can take it, you can make it. 能够承受，方能有所突破。
+name: Kern's Blog
+description: If you can take it, you can make it.
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
 url: www.walkpast.cn
@@ -53,7 +53,7 @@ footer-links:
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
   email: sky580@126.com 
-  facebook: #https://www.facebook.com/<>
+  facebook: https://www.facebook.com/kern.hu.580 #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
   github: https://github.com/KernHu #https://github.com/<>
   instagram: #https://instagram.com/<>
